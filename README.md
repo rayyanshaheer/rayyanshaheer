@@ -1,25 +1,37 @@
-# 💫 About Me:
-Hey there! 👋 I'm Rayyan Shaheer, a CS freshman at FAST NUCES , passionate about coding and AI, exploring their intersection to solve real-world problems.
+# Hi, I'm Rayyan
 
-- 📚 Currently studying Computer Science at FAST NUCES.
-- 💻 Learning and practicing coding in C++ and HTML.
-- 🤖 Exploring the basics of AI and its applications.
+CS student and full-stack software engineer building web apps, APIs, automation tools, and cloud-backed systems.
 
+- Working with TypeScript, React, Node.js, FastAPI, PostgreSQL, AWS, and Docker.
+- Interested in backend engineering, cloud, DevOps, AI/ML, and practical automation.
+- Building projects that solve real problems and are clean enough to maintain.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/RayyanShaheer2/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rayyan_shaheer/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyanshaheer/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22467521) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rayyanshaheer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rayyanshaheer) 
+## Tech Stack
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rayyanshaheer&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rayyanshaheer&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanshaheer&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rayyanshaheer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Links
 
----
-[![](https://visitcount.itsvg.in/api?id=rayyanshaheer&icon=0&color=0)](https://visitcount.itsvg.in)
+- Portfolio: [rayyanshaheer.github.io](https://rayyanshaheer.github.io)
+- LinkedIn: [linkedin.com/in/rayyanshaheer](https://www.linkedin.com/in/rayyanshaheer/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rayyanshaheer&show_icons=true&hide_border=true&theme=github_dark" alt="Rayyan's GitHub stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanshaheer&layout=compact&hide_border=true&theme=github_dark" alt="Rayyan's top languages" />
+</p>
