@@ -1,30 +1,51 @@
-# Hi, I am Rayyan Shaheer
+<div align="center">
 
-I am a computer science student at FAST NUCES and a full-stack developer based in Lahore, Pakistan. I build web products, backend services, and automation tools, with a focus on reliable systems that solve practical problems.
+# Hi, I am Rayyan Shaheer 👋
 
-My work spans product development, cloud deployment, data workflows, and applied machine learning. I care about clear APIs, maintainable code, and choosing technology that fits the problem.
+### Full-Stack Developer · CS Student · Backend & Cloud Builder
 
-## What I work with
+I build web products, backend services, and automation tools that solve practical problems.
 
-- **Languages:** TypeScript, JavaScript, Python, C, C++
-- **Frontend:** React, Next.js, React Native, Tailwind CSS
-- **Backend:** Node.js, Express, FastAPI, REST APIs
-- **Data:** PostgreSQL, Prisma, Supabase
-- **Cloud & tooling:** AWS, Docker, GitHub Actions, Playwright
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://rayyanshaheer.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyanshaheer/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayyanshaheer2@gmail.com)
 
-## Selected projects
+</div>
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Flower Classifier](https://github.com/rayyanshaheer/flower-classifier-pytorch) | Takes a PyTorch model from training to a deployable API with CI/CD. | PyTorch, FastAPI, Docker, AWS |
-| [Buy Box Matcher](https://github.com/rayyanshaheer/buybox-matcher) | Converts investor messages into structured criteria and scores matching property deals. | Python, data pipelines |
-| [Stride Fitness](https://github.com/rayyanshaheer/stride-fitness-app) | Open-source mobile fitness coaching app backed by a REST API. | React Native, Express, Supabase |
-| [Warehouse Inventory System](https://github.com/rayyanshaheer/warehouse-inventory-system) | Database-backed application for managing warehouse inventory. | JavaScript, relational data |
+## About me
 
-## Current focus
+I am a computer science student at FAST NUCES, based in Lahore, Pakistan. My work covers full-stack product development, cloud deployment, data workflows, and applied machine learning. I care about clear APIs, maintainable code, and technology choices that fit the problem.
 
-I am strengthening my backend and cloud engineering skills through projects involving API design, data modeling, testing, deployment pipelines, and applied AI. I am also interested in freelance work and opportunities where I can contribute to production software while learning from experienced engineers.
+- Building full-stack applications, REST APIs, and automation tools
+- Developing stronger backend, cloud, testing, and DevOps skills
+- Open to software engineering internships and freelance projects
 
-## Connect
+## Tech stack
 
-[Portfolio](https://rayyanshaheer.github.io) · [LinkedIn](https://www.linkedin.com/in/rayyanshaheer/) · [Email](mailto:rayyanshaheer2@gmail.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,postgres,supabase,docker,aws,githubactions&perline=13" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, Supabase, Docker, AWS, and GitHub Actions" />
+</p>
+
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/rayyanshaheer/flower-classifier-pytorch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rayyanshaheer&repo=flower-classifier-pytorch&hide_border=true&theme=github_dark_dimmed" alt="Flower Classifier repository card" /></a></td>
+    <td width="50%"><a href="https://github.com/rayyanshaheer/buybox-matcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rayyanshaheer&repo=buybox-matcher&hide_border=true&theme=github_dark_dimmed" alt="Buy Box Matcher repository card" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/rayyanshaheer/stride-fitness-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rayyanshaheer&repo=stride-fitness-app&hide_border=true&theme=github_dark_dimmed" alt="Stride Fitness repository card" /></a></td>
+    <td width="50%"><a href="https://github.com/rayyanshaheer/warehouse-inventory-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rayyanshaheer&repo=warehouse-inventory-system&hide_border=true&theme=github_dark_dimmed" alt="Warehouse Inventory System repository card" /></a></td>
+  </tr>
+</table>
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayyanshaheer&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark_dimmed" alt="Rayyan's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanshaheer&layout=compact&hide_border=true&theme=github_dark_dimmed" alt="Rayyan's most used languages" />
+</div>
+
+---
+
+<p align="center">Interested in building something together? Reach me through <a href="mailto:rayyanshaheer2@gmail.com">email</a> or <a href="https://www.linkedin.com/in/rayyanshaheer/">LinkedIn</a>.</p>
